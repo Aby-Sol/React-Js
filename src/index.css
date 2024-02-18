@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Cards{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Card {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+h1{
+  padding-top: 20px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
